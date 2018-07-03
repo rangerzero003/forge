@@ -18,6 +18,8 @@
   },
   "homepage": "https://github.com/rangerzero003/forge#readme",
   "dependencies": {
-    "express": "^4.16.3"
+    "bluebird": "^3.5.1",
+    "express": "^4.16.3",
+    "request": "^2.87.0"
   }
 }
