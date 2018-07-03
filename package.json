@@ -1,0 +1,23 @@
+{
+  "name": "forge",
+  "version": "0.1.0",
+  "description": "Test app for deploying on web services",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rangerzero003/forge.git"
+  },
+  "author": "rangerzero003@gmail.com",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/rangerzero003/forge/issues"
+  },
+  "homepage": "https://github.com/rangerzero003/forge#readme",
+  "dependencies": {
+    "express": "^4.16.3"
+  }
+}
